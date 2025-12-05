@@ -1,0 +1,7 @@
+.history
+*.txt
+*.log
+*.bak
+*.tmp
+clink_history
+clink_history_*
