@@ -160,6 +160,10 @@ match.expand_envvars = True
 # type: boolean
 match.substring = True
 
+# name: The oh-my-posh theme to use.
+# type: string
+ohmyposh.theme = C:\Users\DmitryKokotov\AppData\Local\Programs\oh-my-posh\themes\atomic.omp.json
+
 # name: Controls VT emulation
 # type: enum
 # options: native,emulate,auto
